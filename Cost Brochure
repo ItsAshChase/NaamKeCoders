@@ -1,0 +1,26 @@
+
+<! DOCTYPE html>
+<head><title> Portal for calculating Cost of renting the machine</title></head>
+<body style="background-color:powderblue;">
+<h1 style="color:blue;"><u>These machines are your prestigious contribution to the country's future</u></h1>
+<br><br>
+<h2 style="color:red;">Two Wheel Tractor</h2>
+<br><br>
+<p> <h3>Material cost : 20,000 <br>
+	Service charge proportianality constant: 4% of (avg. annual profit)<br>
+<br><br><br></h3></p>
+<br><h2 style="color:red;">Tracked Tractor</h2><br>
+<p> <h3>Material cost : 30,000<br>
+	Service charge : 5% of (avg. annual profit)<br><br><br></h3>
+
+
+
+<p><h2> To buy machines click on the link below</h2></p>
+<a href="file:///C:/Users/DELL/Desktop/buying.html"><h2><u>Buying Machines</u></h2></a>
+
+<p><h2> To rent machines click on the link below</h2></p>
+<a href="file:///C:/Users/DELL/Desktop/Renting.html"><h2><u>Renting machines</u></h2></a>
+
+</p>
+</body>
+</html>
